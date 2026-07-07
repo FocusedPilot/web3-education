@@ -55,7 +55,7 @@ Open an issue or reach out directly.
 ## Author
 
 **Precious Elisha**  
-Web3 community builder | Ecosystem communications | DeFi educator  
+Ecosystem Lead | Web3 community builder | DeFi educator  
 [focusedpilot.com](https://focusedpilot.com) · [LinkedIn](https://linkedin.com/in/precious-elisha-6793a0204)
 
 ---
