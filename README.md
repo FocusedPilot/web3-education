@@ -9,6 +9,8 @@ Built for builders, contributors, and curious minds entering Web3.
 
 [DeFi Diplomas]([url](https://elishaprecious757.wixsite.com/defi-di)) is an open education initiative I founded to lower the barrier to entry into decentralized finance. The program runs structured, cohort-based learning experiences across live blockchain ecosystems — not sandboxes — so participants learn by doing.
 
+Link to website - https://elishaprecious757.wixsite.com/defi-di
+
 **500+ participants across three ecosystems:**
 - [Base](https://base.org) — Coinbase's L2, built on the OP Stack
 - [Celo](https://celo.org) — mobile-first, stablecoin-native chain
