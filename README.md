@@ -1,4 +1,4 @@
-# DeFi Diplomas — Open Web3 Education Infrastructure
+# [DeFi Diplomas]([url](https://elishaprecious757.wixsite.com/defi-di)) — Open Web3 Education Infrastructure
 
 **Free, community-led learning programs across EVM ecosystems.**  
 Built for builders, contributors, and curious minds entering Web3.
@@ -7,7 +7,7 @@ Built for builders, contributors, and curious minds entering Web3.
 
 ## What this is
 
-DeFi Diplomas is an open education initiative I founded to lower the barrier to entry into decentralized finance. The program runs structured, cohort-based learning experiences across live blockchain ecosystems — not sandboxes — so participants learn by doing.
+[DeFi Diplomas]([url](https://elishaprecious757.wixsite.com/defi-di)) is an open education initiative I founded to lower the barrier to entry into decentralized finance. The program runs structured, cohort-based learning experiences across live blockchain ecosystems — not sandboxes — so participants learn by doing.
 
 **500+ participants across three ecosystems:**
 - [Base](https://base.org) — Coinbase's L2, built on the OP Stack
