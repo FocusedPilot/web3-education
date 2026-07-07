@@ -56,8 +56,8 @@ Open an issue or reach out directly.
 
 **Precious Elisha**  
 Web3 community builder | Ecosystem communications | DeFi educator  
-[focusedpilot.com](https://focusedpilot.com) · [LinkedIn](https://linkedin.com/in/precious-elisha-6793a0204) · elishaprecious757@gmail.com
+[focusedpilot.com](https://focusedpilot.com) · [LinkedIn](https://linkedin.com/in/precious-elisha-6793a0204)
 
 ---
 
-*Part of a broader effort to make decentralized finance legible, accessible, and useful — starting in Africa.*
+*Part of a broader effort to make decentralized finance legible, accessible, and useful.*
